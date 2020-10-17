@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<settings>
+	<module>krystallos_04</module>
+	<part>final</part>
+	<audio>
+		<krystallos_01>
+			<inicio>Cholesteryl_benzoate_inicio_stereo1.wav</inicio>
+			<final>Cholesteryl_benzoate_final_stereo1.wav</final>
+		</krystallos_01>
+		<krystallos_02>
+			<inicio>Cholesteryl_benzoate_inicio_stereo2.wav</inicio>
+			<final>Cholesteryl_benzoate_final_stereo2.wav</final>
+		</krystallos_02>
+		<krystallos_03>
+			<inicio>Cuc10_cheda_inicio_stereo1.wav</inicio>
+			<final>Cuc10_cheda_final_stereo1.wav</final>
+		</krystallos_03>
+		<krystallos_04>
+			<inicio>Cuc10_cheda_inicio_stereo2.wav</inicio>
+			<final>
+				<file>Cuc10_cheda_final_stereo2.wav</file>
+				<structure>
+					// Cristales
+					<section_0>0</section_0>
+					// Dron
+					<section_1>600</section_1>
+					// Trinos
+					<section_2>870</section_2>
+					// Click
+					<section_3>905</section_3>
+					// Soplos
+					<section_4>920</section_4>
+				</structure>
+			</final>
+		</krystallos_04>
+		
+	</audio>
+	<duration>1157</duration>
+	<mask>mascara-referencia-02.png</mask>
+</settings>

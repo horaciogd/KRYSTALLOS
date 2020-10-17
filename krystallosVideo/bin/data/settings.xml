@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<panel>
+	<distance>119.613</distance>
+	<quatX>-0.147082</quatX>
+	<quatY>-0.240528</quatY>
+	<quatZ>0.0221062</quatZ>
+	<quatW>0.959179</quatW>
+	<camX>-55.9695</camX>
+	<camY>32.4774</camY>
+	<camZ>100.598</camZ>
+	<renderX>-3.34821</renderX>
+	<renderY>-2.09581</renderY>
+	<renderZ>0</renderZ>
+</panel>
+<parameters>
+	<renderX>-5.02232</renderX>
+	<renderY>-9.84095</renderY>
+	<renderZ>-12</renderZ>
+	<ambient>195, 0, 0, 255</ambient>
+	<diffuse>122, 208, 0, 210</diffuse>
+	<specular>119, 126, 39, 255</specular>
+	<alphaA>237.15</alphaA>
+	<alphaD>224.4</alphaD>
+	<alphaS>221.85</alphaS>
+	<thresholdS>109</thresholdS>
+	<lightAngle>3.6</lightAngle>
+	<lightConentration>128</lightConentration>
+	<mixture>109.173</mixture>
+	<EC>122, 174, 223, 255</EC>
+	<FC>206, 225, 213, 255</FC>
+	<stela>255</stela>
+	<lightX>0</lightX>
+	<lightY>-4</lightY>
+	<lightZ>100</lightZ>
+	<ambient2>66, 127, 100, 255</ambient2>
+	<diffuse2>40, 149, 235, 154</diffuse2>
+	<specular2>49, 200, 226, 255</specular2>
+</parameters>
